@@ -1,0 +1,13 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+prometheus-client==0.20.0
+prometheus-fastapi-instrumentator==6.1.0
+opentelemetry-api==1.18.0
+opentelemetry-sdk==1.18.0
+opentelemetry-exporter-jaeger==1.18.0
+opentelemetry-instrumentation==0.39b0
+opentelemetry-instrumentation-fastapi==0.39b0
+opentelemetry-instrumentation-logging==0.39b0
+structlog==24.1.0
+requests==2.31.0
+colorama==0.4.6
